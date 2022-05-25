@@ -1,16 +1,29 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Makes You Feel Software Again.</h1>
+</p>
 
-<!--
-**prom3theu5/prom3theu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://prom3theu5.github.io/resume/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Resume" /></a>&nbsp;
+<a href="https://twitter.com/prom3theu5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/davidsekula/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<br/>
 
-Here are some ideas to get you started:
+<img alt="Bearded Guy" border="0" height="236" src="https://prom3theu5.github.io/resume/img/me-smaller.jpg" title="Some Bearded Guy" width="250" />
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Find me on Twitter <a href="http://twitter.com/prom3theu5">@prom3theu5</a>. Pronouns are he/him.</p>
+
+</p>
+
+![My stats](https://github-readme-stats.vercel.app/api?username=prom3theu5&show_icons=true&theme=nightowl)
+
+## Some fun facts:
+
+✨ I have over 20 years' experience as a web mobile and desktop developer, specializing in microservice based - scalable solutions.
+
+✨ I have quite a bit of experience in applied ML.
+
+✨ I spend a lot of time working on DevOps and GitOps solutions (Shoutout to Pulumi!)
+
+✨ I live in the North East of England (UK), but am originally from Manchester England.
+
