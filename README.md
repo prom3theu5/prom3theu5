@@ -19,11 +19,13 @@
 
 ## Some fun facts:
 
+✨ I absolutely love everything .Net (C# has come a very long way since net core's release - and its only getting better!)
+
 ✨ I have over 20 years' experience as a web mobile and desktop developer, specializing in microservice based - scalable solutions.
 
 ✨ I have quite a bit of experience in applied ML.
 
-✨ I spend a lot of time working on DevOps and GitOps solutions (Shoutout to Pulumi!)
+✨ I spend a lot of time working on DevOps and GitOps solutions (Shoutout to Pulumi and Hashicorp!)
 
 ✨ I live in the North East of England (UK), but am originally from Manchester England.
 
