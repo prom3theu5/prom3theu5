@@ -15,7 +15,7 @@
 
 </p>
 
-![My stats](https://stats-prom3theu5.vercel.app/api?username=prom3theu5&count_private=true&show_icons=true&theme=nightowl)
+![My stats](https://stats-git-main-prom3theu5.vercel.app/api?username=prom3theu5&show_icons=true&theme=nightowl)
 
 ## Some fun facts:
 
