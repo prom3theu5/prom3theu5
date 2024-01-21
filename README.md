@@ -1,32 +1,12 @@
-<p>
-  <h1 align="center"><b>Makes You Feel Software Again.</h1>
-</p>
+I am a passionate and curious developer who loves to explore new technologies and create innovative solutions. 
+Having over 20 years of experience in the industry, means I have seen the rise and fall of many frameworks, languages, and paradigms.
 
-<p align="center">
-<a href="https://prom3theu5.github.io/resume/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Resume" /></a>&nbsp;
-<a href="https://twitter.com/prom3theu5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/davidsekula/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<br/>
+I've witnessed the dawn of the web, the emergence of mobile, the evolution of cloud, and the revolution of AI.
 
-<img alt="Bearded Guy" border="0" height="236" src="https://prom3theu5.github.io/resume/img/me-smaller.jpg" title="Some Bearded Guy" width="250" />
-<br/>
+> “Things change. But change can be a good thing, you know?” - Barry Allen (DC's The Flash)
 
-<p align="center">Find me on Twitter <a href="http://twitter.com/prom3theu5">@prom3theu5</a>. Pronouns are he/him.</p>
+![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-</p>
-
-![My stats](https://stats-git-main-prom3theu5.vercel.app/api?username=prom3theu5&show_icons=true&theme=nightowl)
-
-## Some fun facts:
-
-✨ I absolutely love everything .Net (C# has come a very long way since net core's release - and its only getting better!)
-
-✨ I have over 20 years' experience as a web mobile and desktop developer, specializing in microservice based - scalable solutions.
-
-✨ I have quite a bit of experience in applied ML.
-
-✨ I spend a lot of time working on DevOps and GitOps solutions (Shoutout to Pulumi and Hashicorp!)
-
-✨ I live in the North East of England (UK), but am originally from Manchester England.
-
-[![@prom3theu5's Holopin board](https://holopin.me/prom3theu5)](https://holopin.io/@prom3theu5)
+![Metrics](/github-metrics.svg)
