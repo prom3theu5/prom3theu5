@@ -1,3 +1,4 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
@@ -6,11 +7,25 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
       - uses: prom3theu5/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: prom3theu5
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: London/Europe
+          plugin_fortune: yes
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_traffic: yes
+          plugin_wakatime: no
