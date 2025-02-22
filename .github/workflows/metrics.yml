@@ -13,27 +13,28 @@ jobs:
       - uses: prom3theu5/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          use_prebuilt_image: yes
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: prom3theu5
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: London/Europe
-          plugin_fortune: yes
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          base: activity, community, repositories, metadata
+          config_timezone: Europe/London
+          plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_notable: yes
-          plugin_traffic: yes
-          plugin_wakatime: no
+          plugin_languages: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
