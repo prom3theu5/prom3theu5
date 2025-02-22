@@ -22,4 +22,4 @@ I've witnessed the dawn of the web, the emergence of mobile, the evolution of cl
 <hr/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=prom3theu5)  
-![Github Metrics](https://github.com/prom3theu5/prom3theu5/blob/main/github-metrics.svg)
+![Metrics](/github-metrics.svg)
