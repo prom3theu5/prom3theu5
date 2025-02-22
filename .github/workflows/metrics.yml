@@ -13,6 +13,7 @@ jobs:
       - uses: prom3theu5/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          use_prebuilt_image: yes
           user: prom3theu5
           template: classic
           base: header, activity, community, repositories, metadata
